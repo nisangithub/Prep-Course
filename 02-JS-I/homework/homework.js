@@ -1,7 +1,7 @@
 // En estas primeras 6 preguntas, reemplaza `null` por la respuesta
 
 // Crea una variable "string", puede contener lo que quieras:
-const nuevaString = 'perro' ;
+const nuevaString = 'Nueva';
 
 // Crea una variable numérica, puede ser cualquier número:
 const nuevoNum = 5;
@@ -162,7 +162,7 @@ return Math.ceil(num)
 function numeroRandom() {
   //Generar un número al azar entre 0 y 1 y devolverlo
   //Pista: investigá qué hace el método Math.random()
-return Math.random(num)
+return Math.random()
 }
 
 function esPositivo(numero) {
